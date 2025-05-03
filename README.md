@@ -1,4 +1,4 @@
-# Blog Site
+# 🛵 Delivery Project
 
 🛠The following technologies were used in this project: Python, PostgreSQL (Libraries: FastAPI, pydantic, uvicorn, sqlalchemy, werkzeug, datetime)
 
